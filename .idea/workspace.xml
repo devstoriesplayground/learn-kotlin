@@ -44,7 +44,7 @@
       <recent name="F:\Github\learn-kotlin\src\main\kotlin\introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.HelloWorldKt">
+  <component name="RunManager" selected="Kotlin.IntegerKt">
     <configuration name="ByteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datatype.ByteKt" />
       <module name="learn-kotlin" />
@@ -54,6 +54,13 @@
     </configuration>
     <configuration name="HelloWorldKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="introduction.HelloWorldKt" />
+      <module name="learn-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatype.IntegerKt" />
       <module name="learn-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.IntegerKt" />
         <item itemvalue="Kotlin.HelloWorldKt" />
         <item itemvalue="Kotlin.ShortKt" />
         <item itemvalue="Kotlin.ByteKt" />
