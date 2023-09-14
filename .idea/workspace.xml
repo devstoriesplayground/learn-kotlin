@@ -44,9 +44,16 @@
       <recent name="F:\Github\learn-kotlin\src\main\kotlin\introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.IntegerKt">
-    <configuration name="ByteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatype.ByteKt" />
+  <component name="RunManager" selected="Kotlin.FloatKt">
+    <configuration name="DoubleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatype.DoubleKt" />
+      <module name="learn-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FloatKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatype.FloatKt" />
       <module name="learn-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,15 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShortKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatype.ShortKt" />
-      <module name="learn-kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VariableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introduction.VariableKt" />
+    <configuration name="LongKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatype.LongKt" />
       <module name="learn-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FloatKt" />
+        <item itemvalue="Kotlin.DoubleKt" />
+        <item itemvalue="Kotlin.LongKt" />
         <item itemvalue="Kotlin.IntegerKt" />
         <item itemvalue="Kotlin.HelloWorldKt" />
-        <item itemvalue="Kotlin.ShortKt" />
-        <item itemvalue="Kotlin.ByteKt" />
-        <item itemvalue="Kotlin.VariableKt" />
       </list>
     </recent_temporary>
   </component>
