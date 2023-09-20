@@ -44,7 +44,14 @@
       <recent name="F:\Github\learn-kotlin\src\main\kotlin\introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.BooleanKt">
+  <component name="RunManager" selected="Kotlin.ArithmeticKt">
+    <configuration name="ArithmeticKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.ArithmeticKt" />
+      <module name="learn-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datatype.BooleanKt" />
       <module name="learn-kotlin" />
@@ -73,20 +80,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatype.LongKt" />
-      <module name="learn-kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArithmeticKt" />
         <item itemvalue="Kotlin.BooleanKt" />
         <item itemvalue="Kotlin.CharKt" />
         <item itemvalue="Kotlin.FloatKt" />
         <item itemvalue="Kotlin.DoubleKt" />
-        <item itemvalue="Kotlin.LongKt" />
       </list>
     </recent_temporary>
   </component>
