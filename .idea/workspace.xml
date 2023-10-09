@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3cba967-a01f-4951-b10c-0436a46a9fe8" name="Changes" comment="" />
+    <list default="true" id="b3cba967-a01f-4951-b10c-0436a46a9fe8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +44,7 @@
       <recent name="F:\Github\learn-kotlin\src\main\kotlin\introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ArithmeticKt">
+  <component name="RunManager" selected="Kotlin.InKt">
     <configuration name="ArithmeticKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="operator.ArithmeticKt" />
       <module name="learn-kotlin" />
@@ -64,15 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatype.DoubleKt" />
+    <configuration name="InKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.InKt" />
       <module name="learn-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FloatKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatype.FloatKt" />
+    <configuration name="LogicalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.LogicalKt" />
       <module name="learn-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InKt" />
+        <item itemvalue="Kotlin.LogicalKt" />
         <item itemvalue="Kotlin.ArithmeticKt" />
         <item itemvalue="Kotlin.BooleanKt" />
         <item itemvalue="Kotlin.CharKt" />
-        <item itemvalue="Kotlin.FloatKt" />
-        <item itemvalue="Kotlin.DoubleKt" />
       </list>
     </recent_temporary>
   </component>
